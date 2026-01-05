@@ -5,7 +5,7 @@ A curated collection of high-quality wallpapers for your desktop, featuring land
 ## 📺 Showcase Video
 
 A 60-second slideshow of all wallpapers in this collection is available:
-[![Watch the Showcase Video](thumbnail.jpg)](https://github.com/DevXtechnic/wallpapers/blob/master/wallpapers_showcase.webm)
+[![Watch the Showcase Video](thumbnail.jpg)](https://github.com/DevXtechnic/wallpapers/blob/master/wallpapers_showcase.mp4)
 
 *(Note: Click the link above to view or download the video file directly from the repository.)*
 
