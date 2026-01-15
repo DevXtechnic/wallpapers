@@ -32,3 +32,4 @@ git clone https://github.com/DevXtechnic/wallpapers.git
 ```
 
 Enjoy!
+
