@@ -6,20 +6,6 @@ No clutter. No random dumps. Just clean visuals that fit a focused workflow.
 
 ---
 
-## 📺 Preview
-
-A short slideshow of the current collection:
-
-<video src="https://github.com/user-attachments/assets/20614262-35c4-42e7-8bcc-143fd5fce0ed"
-	controls
-	autoplay
-	loop
-	muted
-	width="100%">
-</video>
-
----
-
 ## 📂 Philosophy
 
 This repository is intentionally minimal:
