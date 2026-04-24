@@ -1,10 +1,15 @@
-# 🎨 Wallpapers Collection
+# 🧊 Minimal Wallpapers
 
-A curated collection of high-quality wallpapers for your desktop, featuring landscapes, coding themes, anime, and abstract art.
+A small, curated set of wallpapers focused on **minimalism, clarity, and low distraction**.
 
-## 📺 Showcase Video
+No clutter. No random dumps. Just clean visuals that fit a focused workflow.
 
-A 60-second slideshow of all wallpapers in this collection is available:
+---
+
+## 📺 Preview
+
+A short slideshow of the current collection:
+
 <video src="https://github.com/user-attachments/assets/20614262-35c4-42e7-8bcc-143fd5fce0ed"
 	controls
 	autoplay
@@ -13,23 +18,31 @@ A 60-second slideshow of all wallpapers in this collection is available:
 	width="100%">
 </video>
 
+---
 
-*(Note: Click the link above to view or download the video file directly from the repository.)*
+## 📂 Philosophy
 
-## 📂 Content Preview
+This repository is intentionally minimal:
 
-This repository contains a variety of styles:
-- **Nature & Landscapes:** Mountains, forests, and space.
-- **Coding & Tech:** Linux, programming, and retro computing.
-- **Art & Anime:** Digital art, lofi vibes, and characters.
+- Only **high-signal wallpapers**
+- Clean, distraction-free designs
+- Optimized for **productive setups** (Hyprland, tiling WMs, etc.)
+
+If it feels noisy, it gets deleted.
+
+---
+
+## 📦 Collection Style
+
+- 🧊 Minimal / Abstract
+- 🌌 Subtle gradients & dark tones
+- 🖥️ Workspace-friendly backgrounds
+
+---
 
 ## 🚀 Usage
 
-You can clone this repository to get all wallpapers:
+Clone the repo:
 
 ```bash
 git clone https://github.com/DevXtechnic/wallpapers.git
-```
-
-Enjoy!
-
