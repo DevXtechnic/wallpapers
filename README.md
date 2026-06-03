@@ -26,6 +26,12 @@ If it feels noisy, it gets deleted.
 
 ---
 
+## 🎬 Video Preview
+
+Check out a quick preview of the wallpapers in action:
+
+![Wallpaper Preview](wallpaper_preview.mp4)
+
 ## 🚀 Usage
 
 Clone the repo:
