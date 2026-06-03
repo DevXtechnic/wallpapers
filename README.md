@@ -30,7 +30,10 @@ If it feels noisy, it gets deleted.
 
 Check out a quick preview of the wallpapers in action:
 
-![Wallpaper Preview](wallpaper_preview.mp4)
+<video width="100%" controls>
+  <source src="wallpaper_preview.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## 🚀 Usage
 
