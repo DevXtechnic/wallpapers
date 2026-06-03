@@ -28,9 +28,10 @@ If it feels noisy, it gets deleted.
 
 ## 🎬 Video Preview
 
-Check out a quick preview of the wallpapers in action:
+▶️ Watch the wallpaper preview:
 
-![Wallpaper Preview](wallpaper_preview.mp4)
+https://github.com/user-attachments/assets/95d838e0-389f-4695-9b28-d2b4566929c2
+
 
 ## 🚀 Usage
 
